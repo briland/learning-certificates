@@ -1,12 +1,11 @@
-# learning-certificates
-Personal certificates from various training courses, e.g., Udacity, Coursera, LinkedIn Learning
+# Personal Learning Certificates
 
-```bash
-.
-├── README.md
-├── personal-development
-│   ├── CertificateOfCompletion_Communicating-about-Culturally-Sensitive-Issues.pdf
-│   └── CertificateOfCompletion_Interpersonal-Communication.pdf
-└── programming
-    └── brilandhitaj-programming-for-everybody-Python.pdf
-```
+A collection of certificates earned from various training courses, e.g., Udacity, Coursera, LinkedIn Learning.
+
+## Certificate List
+
+### Programming
+
+* [Programming for Everybody (Python)](./programming/brilandhitaj-programming-for-everybody-Python.pdf)
+
+### Personal Development
